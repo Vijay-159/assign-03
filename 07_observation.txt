@@ -1,1 +1,26 @@
 # Write down your observations and what did you learn new - in this file
+Equal-Opportunity-1
+I learn,
+how to write a code for accepting the input of  rows and columns
+and how toGo  each row and count
+and how to write function, for which you have to write the implementation.
+
+Sort-Rows-2
+   I learn,
+   how to Sorting each row of a 2d List and in-before I have done sorting in a single array and now it is 2d
+
+oneD to sorted2D-3
+ I learn,
+    Sorting rows in a given 2d list, and how to convert it into a suitable men matrix or 2d list which looks sorted
+
+     Manipulate string-4
+I learn,
+   how to return a string with the characters surrounding any occurrence of C reversed.
+
+   rotate Matrix-5
+   I learn,
+    by knowing how to rotate a Matrix. I write or use the same logic to rotate an image
+
+    Max and Min Value-6
+    I learn,
+    how to find the max and min of each list of each key
