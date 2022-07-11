@@ -14,7 +14,7 @@ Note: Make sure you are in the directory which contains these files when you run
 ## Write your observations
 In the file `07_observation.txt` write the following observations.
 + What is first logic that you thought for solving the problem?
-+ What is the problems you faced while implementing your first logic?
++ What is the problems you faced while implementing your first logic? 
 + Did you modify the logic to solve it or the first logic worked?
 
 Answer these 3 questions for each of the 6 problems in the file `07_observation.txt`.
